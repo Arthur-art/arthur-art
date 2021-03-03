@@ -4,22 +4,13 @@
 
 
 
-<table>
-    <tr align="row">
-        <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-art&show_icons=true&theme=tokyonight" />
-        </td>    
-        <td>
-            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-art&layout=compact&show_icons=true&theme=tokyonight" />
-        </td>
-    </tr>
-<!--     <tr>
-        <td>
-            <img width="800px" align="center" src="https://wakatime.com/share/@4lexRossi/7ee5bec5-df33-4c1c-b4bc-8768914434ff.svg" />
-        </td>
-       <td>
-            <img width="400px" align="center" src="https://wakatime.com/share/@4lexRossi/f35fe96e-039f-4dde-a348-10ccf0fa7ed5.svg" />
-        </td> 
-    </tr> -->
-</table>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=whis-dev" alt="whis-dev" />
+<img src="https://github.com/Whis-dev/Whis-dev/workflows/whis-dev%20Readme/badge.svg" alt="whis-dev "/>
+</p>
+
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whis-dev&theme=tokyonight" alt="whis-dev-language" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whis-dev&show_icons=true&include_all_commits=true&theme=tokyonight" alt="whis-dev-stat" /> 
+</p>
 
