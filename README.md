@@ -5,9 +5,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arthur-art" alt="whis-dev" />
-<img src="https://github.com/Whis-dev/Whis-dev/workflows/whis-dev%20Readme/badge.svg" alt="whis-dev "/>
-</p>
+
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-art&theme=tokyonight" alt="whis-dev-language" />
