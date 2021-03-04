@@ -8,7 +8,7 @@
 
 
 <p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-art&show_icons=true&include_all_commits=true&theme=tokyonight" alt="whis-dev-stat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-art&theme=tokyonight" alt="whis-dev-language" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-art&show_icons=true&include_all_commits=true&theme=tokyonight" alt="whis-dev-stat" /> 
 </p>
 
