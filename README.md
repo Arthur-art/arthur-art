@@ -7,8 +7,9 @@
 
 
 
-<p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-art&show_icons=true&include_all_commits=true&theme=tokyonight" alt="whis-dev-stat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-art&theme=tokyonight" alt="whis-dev-language" />
-</p>
-
+<a href="https://github.com/arthur-art/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-art&show_icons=true&count_private=true&hide=issues&hide_border=true" />
+</a>
+<a href="https://github.com/arthur-art/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-art&layout=compact&langs_count=6&hide_border=true" />
+</a>
