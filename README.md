@@ -3,7 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurteixeira.guts@gmail.com)](mailto:arthurteixeira.guts@gmail.com)
 
 
-See some of my applications!!
+Welcome to my Portfolio!! 
+
+See some of my applications:
 
 
 NLW4 - Moveit    => https://moveit-next-iota-eosin.vercel.app/
