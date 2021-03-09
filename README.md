@@ -3,7 +3,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurteixeira.guts@gmail.com)](mailto:arthurteixeira.guts@gmail.com)
 
 
+See some of my applications!!
 
+
+NLW4 - Moveit    => https://moveit-next-iota-eosin.vercel.app/
+
+DevFinance       => https://dev-finance-xi.vercel.app/
+
+Repository - CSS => https://challenge-30-days-css.vercel.app/
 
 
 
