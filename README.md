@@ -8,11 +8,11 @@ Welcome to my Portfolio!!
 See some of my applications:
 
 
-NLW4 - Moveit    => https://moveit-next-iota-eosin.vercel.app/
+NLW4 - Moveit    => https://moveit-next-created-arthur-art.vercel.app/
 
-DevFinance       => https://dev-finance-xi.vercel.app/
+DevFinance       => https://dev-finance-created-arthur-art.vercel.app/
 
-Repository - CSS => https://challenge-30-days-css.vercel.app/
+Repository - CSS => https://challenge-30-days-css-arthur-art.vercel.app/
 
 
 
