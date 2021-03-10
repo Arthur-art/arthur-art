@@ -12,9 +12,6 @@ NLW4 - Moveit    => https://moveit-next-created-arthur-art.vercel.app/
 
 DevFinance       => https://dev-finance-created-arthur-art.vercel.app/
 
-Repository - CSS => https://challenge-30-days-css-arthur-art.vercel.app/
-
-
 
 <a href="https://github.com/arthur-art/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-art&show_icons=true&count_private=true&hide=issues&hide_border=true" />
