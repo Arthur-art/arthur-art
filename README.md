@@ -5,13 +5,7 @@
 
 Welcome to my Portfolio!! 
 
-See some of my applications:
-
-Science-net      => https://repository-movie-created-arthur-art.vercel.app/
-
-NLW4 - Moveit    => https://moveit-next-created-arthur-art.vercel.app/
-
-DevFinance       => https://dev-finance-created-arthur-art.vercel.app/
+Portfolio : https://arthur-art-portfolio.vercel.app/
 
 <a href="https://github.com/arthur-art/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-art&show_icons=true&count_private=true&hide=issues&hide_border=true" />
