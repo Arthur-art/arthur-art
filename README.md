@@ -5,7 +5,7 @@
 
 Welcome to my Portfolio!! 
 
-Portfolio : https://arthur-art-portfolio.vercel.app/
+Portfolio : https://arthur-art.vercel.app/
 
 <a href="https://github.com/arthur-art/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-art&show_icons=true&count_private=true&hide=issues&hide_border=true" />
