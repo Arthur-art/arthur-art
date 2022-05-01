@@ -2,5 +2,5 @@
 <a href="https://github.com/arthur-art">
   <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-art&layout=compact&langs_count=99&theme=dark" style="height:12rem;" />
-  <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=arthur-art&custom_title=My Github Statics&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img style="height:12rem;" src="https://github-readme-stats.vercel.app/api?username=arthur-art&custom_title=My Github Statics&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>
