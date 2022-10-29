@@ -7,7 +7,7 @@ Passionate about software development!
 
 Currently specializing in Full-Stack development;
 
-Working with technologies such as NodeJS Express, .NET, NestJS, ReactJS, NextJS, VueJS, ReactNative and GraphQL;
+Working with technologies such as NodeJS Express, Java, NestJS, ReactJS, NextJS, VueJS, ReactNative and GraphQL;
 
 Developing robust, resilient and scalable applications, working with principles of SOLID, DDD, design patterns such as CQRS, MVVM and Microservices;
 
