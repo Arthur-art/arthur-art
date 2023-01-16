@@ -12,8 +12,3 @@ Working with technologies such as NodeJS Express, Java, NestJS, ReactJS, NextJS,
 Developing robust, resilient and scalable applications, working with principles of SOLID, DDD, design patterns such as CQRS, MVVM and Microservices;
 
 Always looking to develop applications with simple and easy to understand codes, based on good software development practices, such as Clean Code and Clean Architecture.
-
-## Github Stats
-<a href="https://github.com/arthur-art/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-art&layout=compact&langs_count=6&hide_border=true" />
-</a>
