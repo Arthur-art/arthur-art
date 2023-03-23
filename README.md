@@ -3,12 +3,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-teixeira-santos-silva-167189177/)](https://www.linkedin.com/in/arthur-teixeira-santos-silva-167189177/)
 [![Gmail Badge](https://img.shields.io/badge/-arthurteixeira.guts@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurteixeira.guts@gmail.com)](mailto:arthurteixeira.guts@gmail.com)
 
-Passionate about software development!
-
-Currently specializing in Full-Stack development;
-
-Working with technologies such as NodeJS Express, Fastify, NestJS, Java, .Net, ReactJS, NextJS, VueJS, ReactNative and GraphQL;
-
-Developing robust, resilient and scalable applications, working with principles of SOLID, DDD, design patterns such as CQRS, MVVM and Microservices;
-
-Always looking to develop applications with simple and easy to understand codes, based on good software development practices, such as Clean Code and Clean Architecture.
+     Sou apaixonado por desenvolvimento de software e atualmente me especializo no desenvolvimento Full-Stack. Tenho experiência trabalhando com tecnologias de ponta como NestJS, Java - Spring Boot, .NET, ReactJS, NextJS, VueJS, AngularJS, ReactNative e GraphQL. Busco desenvolver aplicações robustas, resilientes e escaláveis, seguindo os princípios do SOLID, DDD, padrões de projetos como CQRS, MVVM e Microservices.
+     Utilizo boas práticas de desenvolvimento de software, como Clean Code e Clean Architecture, para garantir que meus códigos sejam simples, de fácil entendimento e otimizados.
