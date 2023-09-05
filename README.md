@@ -2,12 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-teixeira-santos-silva-167189177/)](https://www.linkedin.com/in/arthur-teixeira-santos-silva-167189177/)
 [![Gmail Badge](https://img.shields.io/badge/-arthurteixeira.guts@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurteixeira.guts@gmail.com)](mailto:arthurteixeira.guts@gmail.com)<br><br>
-Sou um entusiasta do desenvolvimento de software, me dedico à especialização em desenvolvimento Full-Stack.
+GitHub: https://github.com/Arthur-art
 
-Tenho ampla experiência trabalhando com tecnologias de vanguarda, incluindo NestJS, Java - Spring Boot, .NET, ReactJS, NextJS, VueJS, AngularJS, React Native e GraphQL.
+I am a software development enthusiast, dedicating myself to specialize in Full-Stack development.
 
-Meu objetivo é criar aplicações robustas, resilientes e escaláveis, aderindo aos princípios do SOLID, DDD e padrões de projeto, como CQRS, MVVM e Microservices.
+I have extensive experience working with cutting-edge technologies, including NestJS, Java - Spring Boot, .NET, ReactJS, NextJS, VueJS, AngularJS, React Native, and GraphQL.
 
-Adoto boas práticas de desenvolvimento de software, como Clean Code e Clean Architecture, para garantir que meus códigos sejam simples, de fácil compreensão e otimizados.
+My goal is to create robust, resilient, and scalable applications, adhering to principles such as SOLID, DDD, and design patterns like CQRS, MVVM, and Microservices.
 
-Estou sempre em busca de desafios que me permitam aprimorar minhas habilidades e contribuir para projetos de sucesso. Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou para conhecer mais sobre meu trabalho.
+I embrace software development best practices, such as Clean Code and Clean Architecture, to ensure that my code is simple, easily understandable, and optimized.
+
+I am always on the lookout for challenges that allow me to enhance my skills and contribute to successful projects. Please feel free to contact me to discuss collaboration opportunities or to learn more about my work.
