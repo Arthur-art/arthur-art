@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-teixeira-santos-silva-167189177/)](https://www.linkedin.com/in/arthur-teixeira-santos-silva-167189177/)
 [![Gmail Badge](https://img.shields.io/badge/-arthurteixeira.guts@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurteixeira.guts@gmail.com)](mailto:arthurteixeira.guts@gmail.com)<br><br>
-GitHub: https://github.com/Arthur-art
 
 I am a software development enthusiast, dedicating myself to specialize in Full-Stack development.
 
