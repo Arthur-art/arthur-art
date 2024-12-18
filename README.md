@@ -3,13 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-teixeira-santos-silva-167189177/)](https://www.linkedin.com/in/arthur-teixeira-santos-silva-167189177/)
 [![Gmail Badge](https://img.shields.io/badge/-arthurteixeira.guts@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurteixeira.guts@gmail.com)](mailto:arthurteixeira.guts@gmail.com)<br><br>
 
-Sou um entusiasta do desenvolvimento de software, apaixonado por criar soluções inovadoras e eficientes. Trabalho como desenvolvedor Full-Stack, o que me permite atuar em todas as etapas do processo de desenvolvimento, desde o front-end até o back-end.
-Você pode explorar alguns dos meus projetos e conferir meu portfólio no GitHub. Estou sempre aberto a novas ideias e colaborações!
+I am a software development enthusiast, passionate about creating innovative and efficient solutions. As a Full-Stack Developer, I work across all stages of the development process, from front-end to back-end.  
+You can explore some of my projects and check out my portfolio on GitHub. I’m always open to new ideas and collaborations!  
 
-Ao longo da minha jornada profissional, tive a oportunidade de trabalhar com uma variedade de tecnologias, incluindo .NET, NestJS, Java com Spring Boot, ReactJS, NextJS, AngularJS, React Native e GraphQL. Essa diversidade me proporcionou uma sólida base técnica e uma visão abrangente do desenvolvimento de aplicações.
+Throughout my professional journey, I have had the opportunity to work with a variety of technologies, including AngularJS, ReactJS, NextJS, React Native, GraphQL, .NET, NestJS, and Java with Spring Boot. This diverse experience has provided me with a solid technical foundation and a comprehensive understanding of application development.  
 
-Meu principal objetivo é desenvolver aplicações de alta qualidade, resilientes e escaláveis. Para alcançar isso, sigo princípios fundamentais como SOLID e Domain-Driven Design (DDD), além de aplicar padrões de projeto como MVC, MVVM e Microservices. Essa abordagem me permite criar sistemas robustos e adaptáveis às necessidades do negócio.
+My primary goal is to develop high-quality, resilient, and scalable applications. To achieve this, I follow fundamental principles such as SOLID and Domain-Driven Design (DDD), as well as design patterns like MVC, MVVM, and Microservices. This approach enables me to create robust systems that adapt to business needs.  
 
-Sou um defensor das melhores práticas no desenvolvimento de software. Por isso, adoto tanto Clean Code quanto Clean Architecture, assegurando que meu código seja não apenas eficiente, mas também fácil de entender e otimizado para seu propósito específico.
+I am a strong advocate for best practices in software development. Therefore, I adopt both Clean Code and Clean Architecture principles, ensuring that my code is not only efficient but also easy to understand and optimized for its specific purpose.  
 
-Acredito que novos desafios são oportunidades valiosas para evoluir e aprimorar minhas habilidades, contribuindo para o sucesso dos projetos em que me envolvo. Se você estiver interessado em discutir oportunidades de colaboração ou quiser saber mais sobre o meu trabalho, estou à disposição para trocar ideias e informações. Sinta-se à vontade para ajustar conforme necessário!
+I believe new challenges are valuable opportunities to grow and refine my skills while contributing to the success of the projects I work on. If you’re interested in discussing collaboration opportunities or learning more about my work, feel free to reach out. I’m always happy to exchange ideas and information!
